@@ -1,0 +1,36 @@
+.one{
+    position: relative;
+    padding: 2rem 35%;
+}
+
+.two{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    width: 3rem;
+}
+
+.three{
+    text-align: center;
+    margin: 15rem 0rem 22rem 0rem ;
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+}
+.four{
+    padding-bottom: 10rem;
+}
+.five{
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 1rem;
+    color: white;    
+}
+
+.six{
+    float: left;
+}
+
+.seven{
+    float: right;
+}
