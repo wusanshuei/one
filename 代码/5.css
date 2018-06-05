@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+}
+
+html{
+    height: 100%;
+}
+body{
+    background-color: #eff0f4;
+    height: 100%;
+    font-size: 625%;
+}
+
+.header{
+    top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    position: absolute;
+}
+
+.chunk{
+    left: 0;
+    right: 0;
+    height: 50PX;
+    background-color: #5fc0cd;
+    position: relative;
+}
+
+.out{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+}
+.font{
+    font-size: 20PX;
+    font-weight: bolder;
+    color: #fff;
+    margin-left: -50%;
+    margin-top: -25%;
+}
+
+.close{
+    left: 16PX;
+    margin-top: 13px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #fff;
+    position: absolute;
+    text-decoration:none;
+}
+
+.register{
+    right: 16PX;
+    margin-top: 13px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #fff;
+    position: absolute;
+    text-decoration:none;
+}
+
+
+.text{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background-color:#FFF;
+	overflow: hidden;
+}	
+    
+.texts{
+    margin: 12px 0px 12px 25px;
+    width: 50px;
+    height: 24px;
+	text-align: left;
+    float: left;
+}
+
+.bot{
+    padding: 12px 0px 12px 5px;
+    width: 20px;
+    text-align: left;
+    float: left;
+}
+
+.form{
+    padding:  12px 0px 12px 5px;
+    width: 200px;
+    height: 24px;
+    text-align: left;
+    float: left;
+}
+
+.password{
+    width: 100%;
+    height: 50px;
+    margin-top: 10pX;
+    background-color:#FFF;
+    overflow: hidden;
+}
+
+.passwords{
+    padding: 12px 0px 12px 25px;
+    width: 50px;
+    height: 24px;
+    text-align: left;
+    float: left;
+}
+.color{
+    width: 100%;
+    height: 24PX;
+    color: #000;
+    border: none;}
+
+.button{
+    width: 100%;
+    height: 50PX;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20PX;
+    color: #FFF;
+    background-color: #5fc0cd;
+    float: left;
+    }
+
+.a{
+    margin-top: 10px;
+    padding-right: 3%;
+    font-size: .1rem;
+    text-decoration:none;
+    float: right;
+    }
